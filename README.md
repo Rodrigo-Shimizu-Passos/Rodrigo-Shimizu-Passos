@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, seja Bem-vindo👋
+<hr>
+Me chamo Rodrigo Passos, tenho 20 anos e atualmente sou desenvolvedor Full stack, trabalhando principalmente com Java Spring Boot e Angular.
+Utilizo também bancos de dados relacionais MySQL e SQL Server. Tenho como foco atual aprimorar meus conhecimentos em desenvolvimento back-end.
+<br>
+Ao fim de 2023, concluí minha graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, no IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+<hr>
 
-<!--
-**Rodrigo-Shimizu-Passos/Rodrigo-Shimizu-Passos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias que utilizo:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,html,css,ts,mysql,git"></img>
+</div>
+<hr>
+<h3>Informações de Contato: </h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-shimizu-passos/)<br>
+- E-mail: contato.rodrigospassos@gmail.com
